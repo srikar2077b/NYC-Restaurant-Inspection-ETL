@@ -139,4 +139,4 @@ Airflow runs under WSL2 using Ubuntu with the DAG file located in: airflow_dags/
 ## 📌 Author
 
 **Srikar Bokka**  
-GitHub: [@srikar2077](https://github.com/srikar2077b)
+GitHub: [@srikar2077b](https://github.com/srikar2077b)
