@@ -1,0 +1,10 @@
+csv_path: "data/DOHMH_New_York_City_Restaurant_Inspection_Results_20250406.csv"
+app_name: "NYC Python Data Pipeline"
+output_path: "output/DOHMH_New_York_City_Restaurant_Inspection_CnV.csv"
+transformed_output_path: "output/DOHMH_New_York_City_Restaurant_Inspection_T.csv"
+sql_server:
+  server: MADDY\SQLEXPRESS
+  database: Restaurants_Inspection
+  driver: ODBC Driver 17 for SQL Server
+  table_name: Inspected_RestaurantData
+  procedure_name: CleanRestaurantInspectionData

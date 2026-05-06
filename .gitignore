@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+logs/
+pipeline.log
+validation_duplicates.csv
+
+# Environment files
+.env
+
+# Output data
+output/
+*.csv
+
+# Jupyter Notebooks checkpoints (if you ever add notebooks)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
